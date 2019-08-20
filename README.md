@@ -1,2 +1,2 @@
-# number-recognition
-Android App which uses OpenCV &amp; ML model, for image processing &amp; predicting the numbers captured in the image.
+# Number Recognition using ML & Image Processing.
+Android App which uses an API to connect to a OpenCV &amp; ML model deployed on AWS, to predict the numbers captured in an image.

@@ -7,6 +7,11 @@ Android App which uses an API to connect to a OpenCV &amp; ML model deployed on 
 <br><br>
 -> <b>AWS_API</b><br>
 Consists of ML model, Flask API, Image processing code files that are to be deployed on AWS.
+<i><b>model.py</i></b> : ML Model building code file.
+<i><b>demo.py</i></b> : API file to process request and response from app to the image processing file.
+<i><b>process_image.py</i></b> : Image processing file to extract image and modify it as per the trained model.
+<i><b>model_rfc</i></b> : Saved trained model file, which is used by image processing file.
+<i><b>train</i></b> : Original data on which the ML model is trained.
 <br><br>
 -><b>Android_App</b><br>
 Consists of android application source code which is configured to interact with the flask api deployed on AWS.

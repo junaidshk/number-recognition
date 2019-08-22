@@ -1,5 +1,5 @@
 # Number Recognition using ML & Image Processing.
-Android App which uses an API to connect to a OpenCV &amp; ML model deployed on AWS, to predict the numbers captured in an image.
+Android App which uses an API to connect to a OpenCV &amp; ML model deployed on AWS, to detect the numbers captured in an image.
 <br><br>
 <b>Two Directories : <br>
 1. AWS_API<br>

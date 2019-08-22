@@ -1,0 +1,4 @@
+#Wed Aug 21 22:42:44 IST 2019
+base.0=C\:\\Users\\suhail shaikh\\Desktop\\Udemy_Source_Codes\\ML-Bootcamp-July-2019-master\\Complete Project\\Full Android Application Code\\BootcampDigitRecognitionApplication\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

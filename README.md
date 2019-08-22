@@ -12,8 +12,8 @@ Consists of ML model, Flask API, Image processing code files that are to be depl
 <i><b>process_image.py</i></b> : Image processing file to extract image and modify it as per the trained model.<br>
 <i><b>model_rfc</i></b> : Saved trained model file, which is used by image processing file.<br>
 <i><b>train</i></b> : Original data on which the ML model is trained.<br>
-<i><b>FlaskApplication </i></b> : Api config file.<br>
-<i><b>SampleApp</i></b> : Apache config file.<br>
+<i><b>FlaskApplications.wsgi </i></b> : Api config file.<br>
+<i><b>SampleApp.conf</i></b> : Apache config file.<br>
 <br>
 -><b>Android_App</b><br>
 Consists of android application source code which is configured to interact with the flask api deployed on AWS.

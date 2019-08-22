@@ -15,7 +15,7 @@ Consists of ML model, Flask API, Image processing code files that are to be depl
 <i><b>FlaskApplications.wsgi </i></b> : Api config file.<br>
 <i><b>SampleApp.conf</i></b> : Apache config file.<br>
 <br>
--><b>Android_App</b><br>
+-> <b>Android_App</b><br>
 Consists of android application source code which is configured to interact with the flask api deployed on AWS.
 <br><br><br>
 <b><i>Note: If facing issue with configuring the android app, then we can check the working of ML model and image processing code directly using the process_image.py file. The file is setup for DEBUG purpose so it will show you all the stages of image processing.
